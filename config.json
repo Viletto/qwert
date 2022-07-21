@@ -1,0 +1,14 @@
+{
+    "ip": "ClikMine.aternos.me",
+    "port": 37712,
+    "name": "BOT",
+    "auto-night-skip": "false",
+    "join-msg": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442!!!!!!!",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "\u042f \u043b\u043e\u0445",
+    "custom-message-2": "\u042f \u043b\u043e\u0445",
+    "login-enabled": "true",
+    "register-cmd": "/register 12345678",
+    "login-cmd": "/login 12345678"
+}
